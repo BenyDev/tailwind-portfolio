@@ -1,4 +1,4 @@
-import heroImg from '../assets/hero.svg'
+import heroImg from '../assets/hero2.svg'
 import { FaGithubSquare, FaLinkedin, FaTwitterSquare } from 'react-icons/fa'
 
 import React from 'react'
